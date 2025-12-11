@@ -12,3 +12,4 @@ Hi, I'm Angela!
 Stick around for more projects soon!
 
 ⚬──────────✧──────────⚬
+![PicAngela](https://github.com/user-attachments/assets/5a71587c-14ab-4d3f-b381-be7a490b63b5)
