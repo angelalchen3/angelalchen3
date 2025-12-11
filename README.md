@@ -5,7 +5,7 @@ Hi, I'm Angela
 
 ╰┈➤ I am a current data analyst at a credit card company. I have been here for 1.5 years now and work a lot with SQL, Python, and Snowflake.
 
-╰┈➤ Working on building out semantic views to align my company's data with a Snowflake's Cortex AI generative agent.
+╰┈➤ A current project of mine is building out semantic views to align my company's data with a Snowflake's Cortex AI generative agent.
 
 ╰┈➤ In my spare time, I love rock climbing, weight lifting, and backpacking!
 
