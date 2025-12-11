@@ -13,4 +13,4 @@ Stick around for more projects soon!
 
 ⚬──────────✧──────────⚬
 
-![PicAngela](https://github.com/user-attachments/assets/d04b62e3-3c8d-498c-b929-b46493ba4244)
+![PicAngela](https://github.com/user-attachments/assets/af6fcf9d-7345-4d47-9da1-714d57e63901)
