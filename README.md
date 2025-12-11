@@ -7,6 +7,8 @@ Hi, I'm Angela
 
 ╰┈➤ In my spare time, I love rock climbing, weight lifting, and backpacking!
 
+╰┈➤ I got my Master's at Cornell in Industrial Labor Relations, but fell in love with data afterwards!
+
 Stick around for more projects soon!
 
 ⚬──────────✧──────────⚬
