@@ -3,7 +3,7 @@ Hi, I'm Angela!
 
 ⚬──────────✧──────────⚬
 
-╰┈➤ I am a current data data engineer at a tech consulting company.  Previously, I worked as an analytics engineer at a credit card company owning the end-to-end lifecycle of their call-center operations data.
+╰┈➤ I am a current data data engineer at a tech consulting company specializing in Google Cloud Platform.  Previously, I worked as an analytics engineer at a credit card company owning the end-to-end lifecycle of their call-center operations data.
 
 ╰┈➤ A past project of mine is building out semantic views to align my old company's data with Snowflake's Cortex AI generative agent.
 
